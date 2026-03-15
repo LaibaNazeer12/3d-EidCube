@@ -3,9 +3,11 @@ margin:0;
 overflow:hidden;
 font-family:"Times New Roman", serif;
 color:#FFD700;
+
 /* lighter black background */
 background: radial-gradient(circle at center,#555,#222);
 }
+
 #eidText{
 position:absolute;
 top:50%;
@@ -14,11 +16,13 @@ transform:translate(-50%,-50%);
 text-align:center;
 display:none;
 }
+
 #eidText h1{
 font-size:80px;
 margin:0;
 letter-spacing:3px;
 }
+
 #eidText h2{
 font-size:42px;
 margin-top:10px;
